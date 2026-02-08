@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "アイデンティティー - Identity",
+  "base_artist": "MY FIRST STORY",
+  "createdAt": "2026-02-08T14:45:45.784977Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイデンティティー",
+      "artist": "My Little Lover",
+      "has_synced": true,
+      "path": "select/01_アイデンティティー_My_Little_Lover.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アイデンティティー - Identity",
+      "artist": "MY FIRST STORY",
+      "has_synced": false,
+      "path": "select/02_アイデンティティー_-_Identity_MY_FIRST_STORY.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アイデンティティー クライシス～思春期の終わり～ (Live In Japan / 2001 - 2002)",
+      "artist": "Masayoshi Yamazaki",
+      "has_synced": false,
+      "path": "select/03_アイデンティティー_クライシス~思春期の終わり~_(Live_In_Japan___2001_-_2002)_Masayoshi_Yamazaki.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "マイ・アイデンティティー (feat. FLYING KIDS)",
+      "artist": "Kyogo Kawaguchi, Flying Kids",
+      "has_synced": true,
+      "path": "select/04_マイ・アイデンティティー_(feat._FLYING_KIDS)_Kyogo_Kawaguchi,_Flying_Kids.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイデンティティー",
+      "artist": "MY FIRST STORY",
+      "has_synced": false,
+      "path": "select/pl_01_アイデンティティー_MY_FIRST_STORY.txt"
+    }
+  ]
+}
